@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="cnn.us" tvg-logo="http://example.com/cnn.png" group-title="News",CNN International
+http://example.com/cnn.m3u8
+#EXTINF:-1 tvg-id="bbc1.uk" group-title="General",BBC One HD
+http://example.com/bbc.m3u8
+#EXTINF:-1 tvg-id="espn.us" group-title="Sports",ESPN US
+http://example.com/espn.m3u8

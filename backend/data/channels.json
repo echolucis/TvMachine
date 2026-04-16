@@ -1,0 +1,29 @@
+[
+  {
+    "id": "7a9bbac799a6",
+    "name": "CNN International",
+    "logo": "http://example.com/cnn.png",
+    "group": "News",
+    "tvg_id": "cnn.us",
+    "url": "http://example.com/cnn.m3u8",
+    "status": "unknown"
+  },
+  {
+    "id": "87d585ee3382",
+    "name": "BBC One HD",
+    "logo": null,
+    "group": "General",
+    "tvg_id": "bbc1.uk",
+    "url": "http://example.com/bbc.m3u8",
+    "status": "unknown"
+  },
+  {
+    "id": "94f795d5f04b",
+    "name": "ESPN US",
+    "logo": null,
+    "group": "Sports",
+    "tvg_id": "espn.us",
+    "url": "http://example.com/espn.m3u8",
+    "status": "unknown"
+  }
+]

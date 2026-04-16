@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="cnn.us"><display-name>CNN</display-name></channel>
+  <channel id="bbc1.uk"><display-name>BBC One</display-name></channel>
+  <channel id="espn.us"><display-name>ESPN</display-name></channel>
+  <programme channel="cnn.us">
+    <start>20240615180000 UTC</start>
+    <stop>20240615190000 UTC</stop>
+    <title>News Hour</title>
+    <desc>Daily news</desc>
+    <category>news</category>
+  </programme>
+  <programme channel="bbc1.uk">
+    <start>20240615180000 UTC</start>
+    <stop>20240615190000 UTC</stop>
+    <title>BBC News</title>
+    <desc>UK news</desc>
+    <category>news</category>
+  </programme>
+  <programme channel="espn.us">
+    <start>20240615180000 UTC</start>
+    <stop>20240615200000 UTC</stop>
+    <title>Live Sports</title>
+    <desc>Sports event</desc>
+    <category>sports</category>
+  </programme>
+</tv>

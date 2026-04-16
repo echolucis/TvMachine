@@ -1,0 +1,77 @@
+{
+  "7a9bbac799a6": {
+    "channel": {
+      "id": "7a9bbac799a6",
+      "name": "CNN International",
+      "logo": "http://example.com/cnn.png",
+      "group": "News",
+      "tvg_id": "cnn.us",
+      "url": "http://example.com/cnn.m3u8",
+      "status": "unknown"
+    },
+    "epg_channel_id": "cnn.us",
+    "programmes": [
+      {
+        "channel_id": "cnn.us",
+        "title": "News Hour",
+        "description": "Daily news",
+        "start_utc": "2024-06-15T18:00:00+00:00",
+        "end_utc": "2024-06-15T19:00:00+00:00",
+        "category": [
+          "news"
+        ],
+        "episode": null
+      }
+    ]
+  },
+  "87d585ee3382": {
+    "channel": {
+      "id": "87d585ee3382",
+      "name": "BBC One HD",
+      "logo": null,
+      "group": "General",
+      "tvg_id": "bbc1.uk",
+      "url": "http://example.com/bbc.m3u8",
+      "status": "unknown"
+    },
+    "epg_channel_id": "bbc1.uk",
+    "programmes": [
+      {
+        "channel_id": "bbc1.uk",
+        "title": "BBC News",
+        "description": "UK news",
+        "start_utc": "2024-06-15T18:00:00+00:00",
+        "end_utc": "2024-06-15T19:00:00+00:00",
+        "category": [
+          "news"
+        ],
+        "episode": null
+      }
+    ]
+  },
+  "94f795d5f04b": {
+    "channel": {
+      "id": "94f795d5f04b",
+      "name": "ESPN US",
+      "logo": null,
+      "group": "Sports",
+      "tvg_id": "espn.us",
+      "url": "http://example.com/espn.m3u8",
+      "status": "unknown"
+    },
+    "epg_channel_id": "espn.us",
+    "programmes": [
+      {
+        "channel_id": "espn.us",
+        "title": "Live Sports",
+        "description": "Sports event",
+        "start_utc": "2024-06-15T18:00:00+00:00",
+        "end_utc": "2024-06-15T20:00:00+00:00",
+        "category": [
+          "sports"
+        ],
+        "episode": null
+      }
+    ]
+  }
+}
