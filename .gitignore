@@ -1,59 +1,44 @@
 ```
 # Dependencies
-backend/venv/
-backend/.venv/
-frontend/node_modules/
-
-# Python
+node_modules/
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-.Python
-env/
 venv/
 .venv/
-pip-log.txt
-pip-delete-this-directory.txt
-.tox/
-.coverage
-.coverage.*
-.cache
-nosetests.xml
-coverage.xml
-*.cover
+.env
+.env.local
+*.env.*
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Logs and temporary files
 *.log
-local_settings.py
-db.sqlite3
-db.sqlite3-journal
-
-# Environment variables
-backend/.env
-frontend/.env
-
-# IDE
-.vscode/
-.idea/
+*.tmp
 *.swp
 *.swo
+
+# Editors
+.vscode/
+.idea/
+*.sublime-workspace
 
 # OS
 .DS_Store
 Thumbs.db
 
-# Build artifacts
-backend/build/
-backend/dist/
-frontend/out/
-frontend/.next/
-.next/
-
-# Testing
-.pytest_cache/
-.mypy_cache/
-htmlcov/
+# Coverage
 .coverage
+coverage/
+htmlcov/
 
-# Docker
-.dockerenv
+# Python specific
+*.py[cod]
+*$py.class
+*.so
+.Python
 ```

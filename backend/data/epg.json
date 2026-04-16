@@ -1,0 +1,41 @@
+{
+  "cnn.us": [
+    {
+      "channel_id": "cnn.us",
+      "title": "News Hour",
+      "description": "Daily news",
+      "start_utc": "2024-06-15T18:00:00+00:00",
+      "end_utc": "2024-06-15T19:00:00+00:00",
+      "category": [
+        "news"
+      ],
+      "episode": null
+    }
+  ],
+  "bbc1.uk": [
+    {
+      "channel_id": "bbc1.uk",
+      "title": "BBC News",
+      "description": "UK news",
+      "start_utc": "2024-06-15T18:00:00+00:00",
+      "end_utc": "2024-06-15T19:00:00+00:00",
+      "category": [
+        "news"
+      ],
+      "episode": null
+    }
+  ],
+  "espn.us": [
+    {
+      "channel_id": "espn.us",
+      "title": "Live Sports",
+      "description": "Sports event",
+      "start_utc": "2024-06-15T18:00:00+00:00",
+      "end_utc": "2024-06-15T20:00:00+00:00",
+      "category": [
+        "sports"
+      ],
+      "episode": null
+    }
+  ]
+}
